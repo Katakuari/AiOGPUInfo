@@ -1,9 +1,8 @@
-﻿# GPUInfo #
+# GPUInfo #
 GPUInfo is a skin to monitor your GPUs status (temp, fan speed, etc).
 
 ## Inspirations ##
-This skin was inspired by the following skins: 
-- [Simplicity Circles](https://www.deviantart.com/flyinghyrax/art/Simplicity-Circles-223877982) by [FlyingHyrax](https://www.deviantart.com/flyinghyrax)
+This skin was inspired by the following skin:
 - [CPUStats](https://www.deviantart.com/raion1337/art/CPUStats-Temperature-and-Usage-568402322) by [Raion1337](https://www.deviantart.com/raion1337)
 
 ## License ##
