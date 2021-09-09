@@ -1,5 +1,5 @@
 # GPUInfo #
-GPUInfo is a skin to monitor your GPUs status (temp, fan speed, etc).
+GPUInfo is a Rainmeter skin to monitor your GPUs status (temp, fan speed, etc).
 
 ## Inspirations ##
 This skin was inspired by the following skin:
