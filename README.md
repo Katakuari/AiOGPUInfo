@@ -4,7 +4,7 @@ GPUInfo is a Rainmeter skin to monitor your GPUs status (temp, fan speed, etc).
 ## Prerequisites ##
 To use this skin, you will have to install [HWiNFO](https://www.hwinfo.com/) and configure it as explained in the [Rainmeter Docs](https://docs.rainmeter.net/tips/hwinfo/).
 
-You will likely have to edit the `Value` numbers in the measures like `Value1` or `ValueRaw4` according to what HWiNFO assigns to the sensors.
+You will likely have to edit the `Value` numbers in the measures (e.g. `Value1`, `ValueRaw4`) according to what HWiNFO assigns to the sensors.
 
 ## Inspirations ##
 This skin was inspired by the following skin:
