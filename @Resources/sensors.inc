@@ -6,11 +6,11 @@ GpuTempRaw=ValueRaw0
 GpuFanRpm=Value1
 GpuFanRpmRaw=ValueRaw1
 
-GpuMemUse=Value2
-GpuMemUseRaw=ValueRaw2
+GpuCoreUtil=Value2
+GpuCoreUtilRaw=ValueRaw2
 
-GpuD3dUse=Value3
-GpuD3dUseRaw=ValueRaw3
+GpuMemUse=Value3
+GpuMemUseRaw=ValueRaw3
 
 GpuFanPerc=Value4
 GpuFanPercRaw=ValueRaw4
