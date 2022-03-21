@@ -6,6 +6,8 @@ To use this skin, you will have to install [HWiNFO](https://www.hwinfo.com/) and
 
 You will likely have to edit the `Value` numbers in the measures (e.g. `Value1`, `ValueRaw4`) according to what HWiNFO assigns to the sensors.
 
+The used font is optional and can be changed freely. If you want to use the included one, here's a link to the official download at [JetBrains.com](https://www.jetbrains.com/lp/mono/).
+
 ## Inspirations ##
 This skin was inspired by the following skin:
 - [CPUStats](https://www.deviantart.com/raion1337/art/CPUStats-Temperature-and-Usage-568402322) by [Raion1337](https://www.deviantart.com/raion1337)
