@@ -3,7 +3,7 @@ AiOGPUInfo is a Rainmeter skin to monitor your GPUs utilization, temperature, an
 
 This skin was inspired by [Raion1337](https://www.deviantart.com/raion1337)'s [CPUStats](https://www.deviantart.com/raion1337/art/CPUStats-Temperature-and-Usage-568402322).
 
-The used font is optional and can be changed freely. If you want to install the included one, here's a link to the full official download at [JetBrains.com](https://www.jetbrains.com/lp/mono/).
+The used font is made available by [JetBrains.com](https://www.jetbrains.com/lp/mono/).
 
 ## Prerequisites ##
 To use this skin, you will have to install [HWiNFO](https://www.hwinfo.com/) and configure it as explained in the [Rainmeter Docs](https://docs.rainmeter.net/tips/hwinfo/).
