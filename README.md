@@ -1,7 +1,7 @@
 # AiOGPUInfo #
 AiOGPUInfo is a Rainmeter skin to monitor your GPUs utilization, temperature, and more.
 
-This skin was inspired by [Raion1337](https://www.deviantart.com/raion1337)'s [CPUStats](https://www.deviantart.com/raion1337/art/CPUStats-Temperature-and-Usage-568402322).
+This skin was inspired by [Raion1337's CPUStats](https://www.deviantart.com/raion1337/art/CPUStats-Temperature-and-Usage-568402322).
 
 The used font is made available by [JetBrains.com](https://www.jetbrains.com/lp/mono/).
 
